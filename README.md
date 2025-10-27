@@ -6,7 +6,7 @@ Una aplicación móvil simple y funcional desarrollada en Flutter para capturar 
 
 
 
-*De izquierda a derecha: Pantalla inicial, Solicitud de permisos de cámara, Vista previa de foto capturada*
+**
 
 ## Características
 
