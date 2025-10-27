@@ -4,7 +4,9 @@ Una aplicación móvil simple y funcional desarrollada en Flutter para capturar 
 
 ## 📱 Capturas de Pantalla
 
-
+<img width="250" alt="Pantalla inicial" src="https://github.com/user-attachments/assets/a10c5758-0170-41f2-a855-13f7f0895ec1" />
+  <img width="250"  alt="Solicitud de permisos" src="https://github.com/user-attachments/assets/a435c948-566b-4944-8759-f0574be9670a" /> 
+  <img width="250" alt="Foto capturada" src="https://github.com/user-attachments/assets/0fc2394b-b070-49aa-81eb-a9084da23017" />
 
 **
 
