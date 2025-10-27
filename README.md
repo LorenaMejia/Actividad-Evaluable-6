@@ -12,17 +12,17 @@ Una aplicación móvil simple y funcional desarrollada en Flutter para capturar 
   
 </div>
 
-*De izquierda a derecha: Pantalla inicial, Solicitud de permisos de cámara, Vista previa de foto capturada*
 
-## ✨ Características
 
-- ✅ Captura de fotografías con la cámara del dispositivo
-- ✅ Solicitud de permisos de cámara en tiempo de ejecución
-- ✅ Vista previa de la foto capturada
-- ✅ Interfaz simple e intuitiva
-- ✅ Guardado de fotos en el almacenamiento del dispositivo
+##  Características
 
-## 🛠️ Tecnologías y Librerías
+- Captura de fotografías con la cámara del dispositivo
+- Solicitud de permisos de cámara en tiempo de ejecución
+- Vista previa de la foto capturada
+- Interfaz simple e intuitiva
+- Guardado de fotos en el almacenamiento del dispositivo
+
+## Tecnologías y Librerías
 
 Este proyecto fue desarrollado utilizando las siguientes dependencias:
 
@@ -36,14 +36,14 @@ dependencies:
   cupertino_icons: ^1.0.8         # Iconos iOS
 ```
 
-### 📦 Descripción de las librerías:
+### Descripción de las librerías:
 
 - **camera**: Proporciona acceso a la cámara del dispositivo para capturar fotos y videos
 - **path_provider**: Permite obtener rutas de almacenamiento temporal y permanente en el dispositivo
 - **permission_handler**: Facilita la solicitud y manejo de permisos del sistema (cámara, almacenamiento, etc.)
 - **cupertino_icons**: Conjunto de iconos del estilo iOS para una interfaz consistente
 
-## 🚀 Instalación
+## Instalación
 
 1. **Clonar el repositorio**
 ```bash
@@ -61,14 +61,14 @@ flutter pub get
 flutter run
 ```
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 - Flutter SDK (versión 3.0 o superior)
 - Dart SDK
 - Android Studio / VS Code con extensiones de Flutter
 - Dispositivo físico o emulador con cámara
 
-## 🔐 Permisos
+## Permisos
 
 La aplicación solicita los siguientes permisos:
 
@@ -87,7 +87,7 @@ La aplicación solicita los siguientes permisos:
 <string>Esta app necesita acceso a la galería para guardar fotos</string>
 ```
 
-## 📱 Generar APK
+## Generar APK
 
 Para generar el APK de la aplicación:
 
@@ -104,7 +104,7 @@ flutter build apk --split-per-abi
 
 El APK generado se encuentra en: `build/app/outputs/flutter-apk/`
 
-## 👨‍💻 Autor
+## Autor
 
 **Nicol Lorena Mejia**
 
@@ -112,7 +112,7 @@ El APK generado se encuentra en: `build/app/outputs/flutter-apk/`
 
 Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
 
-## 🤝 Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
 
