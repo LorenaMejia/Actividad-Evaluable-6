@@ -106,7 +106,7 @@ El APK generado se encuentra en: `build/app/outputs/flutter-apk/`
 
 ## 👨‍💻 Autor
 
-**Adrián David González Romero**
+**Nicol Lorena Mejia**
 
 ## 📄 Licencia
 
