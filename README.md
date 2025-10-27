@@ -8,7 +8,7 @@ Una aplicación móvil simple y funcional desarrollada en Flutter para capturar 
   
   <img width="250" alt="Pantalla inicial" src="https://github.com/user-attachments/assets/a10c5758-0170-41f2-a855-13f7f0895ec1" />
   <img width="250"  alt="Solicitud de permisos" src="https://github.com/user-attachments/assets/a435c948-566b-4944-8759-f0574be9670a" /> 
-   <img width="250" alt="Captura dentro del celular" src="https://github.com/LorenaMejia/Actividad-Evaluable-6/blob/main/tatuaje.jpg?raw=true" />
+   <img width="250" alt="Captura dentro del celular" src="https://github.com/LorenaMejia/Actividad-Evaluable-6/blob/main/tatuaje2.jpg?raw=true" />
   
 </div>
 
